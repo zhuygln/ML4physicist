@@ -1,0 +1,6 @@
+XGBoost stands for “Extreme Gradient Boosting”, where the term “Gradient Boosting” originates from the paper Greedy Function Approximation: A Gradient Boosting Machine, by Friedman.
+
+Based 
+
+- Chen & Guestrin 2016 https://arxiv.org/pdf/1603.02754.pdf
+- J. Friedman. Greedy function approximation: a gradient boosting machine. Annals of Statistics, 29(5):1189–1232, 2001.
