@@ -1,3 +1,3 @@
-# kaggles
-## notes
-## Santandar Customer Transaction Prediction (banking, tabular data, binary classification)
+# My projects from Physics to Data Scientist
+## Kaggle projects
+### Santandar Customer Transaction Prediction (banking, tabular data, binary classification)
