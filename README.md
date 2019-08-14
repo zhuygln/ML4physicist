@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Benchmarking for open source auto machine learning framework
 
 ## Intro & Motivation
@@ -49,3 +50,11 @@ Automated Machine Learning Framework for Classification
 ### AUC
 
 ### KS
+=======
+# My projects from Physics to Data Scientist
+## Time series projects
+### Human Activity Recognition
+
+## Kaggle projects
+### Santandar Customer Transaction Prediction (banking, tabular data, binary classification)
+>>>>>>> e704d644d06df9191a9c812e42f0a39aa3de54e1
